@@ -1,0 +1,16 @@
+{
+  "name": "cordova-local-notification-sample",
+  "version": "0.0.1",
+  "description": "Cordova Local Notification Sample",
+  "keywords": [
+    "cordova",
+    "local",
+    "notification",
+    "sample"
+  ],
+  "author": "Apoorva Korde <apoorva.korde@tcs.com>",
+  "license": "MIT",
+  "dependencies": {
+    "cordova": "^6.4.0"
+  }
+}
